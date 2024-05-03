@@ -438,10 +438,12 @@ footer {
 
     .right-nav {
         margin-top: 20px;
+        display: none;
     }
 
     .menu {
         margin-top: 20px;
+        display: block;
     }
 
     .search-banner-text {
